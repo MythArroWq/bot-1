@@ -7,16 +7,16 @@ var prefix = ayarlar.prefix;
 
 module.exports = client => {
 var oyun = [
-        "g!yardım - Otorol Güncellendi🔥",
-        "g!yardım - Küfür Engel✨",
-        "g!yardım - Reklam Engel⭐️",
-        "g!yardım - +hoşgeldin-ayarla Güncellendi💥",
-        "g!yardım - +slowmode 🌹",
-        "g!yardım - Beni Sunucuna Ekle⚡️",
-        "g!yardım - +sunucunutanıt YENİ🍂 ",
-        "g!yardım - +talep YENİ📫 ",
-        "g!yardım - +düello Yeni 🤛",
-        "g!yardım - +sayaç Yeni 👑",
+        "c!yardım - Otorol Güncellendi🔥",
+        "c!yardım - Küfür Engel✨",
+        "c!yardım - Reklam Engel⭐️",
+        "c!yardım - +hoşgeldin-ayarla Güncellendi💥",
+        "c!yardım - +slowmode 🌹",
+        "c!yardım - Beni Sunucuna Ekle⚡️",
+        "c!yardım - +sunucunutanıt YENİ🍂 ",
+        "c!yardım - +talep YENİ📫 ",
+        "c!yardım - +düello Yeni 🤛",
+        "c!yardım - +sayaç Yeni 👑",
         "g!kayıtlar-ayarla - Yeni"
   
     ];
